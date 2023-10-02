@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\soru not hesaplamaa\soru not hesaplamaa\bin\Debug\soru not hesaplamaa.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\soru not hesaplamaa\soru not hesaplamaa\bin\Debug\soru not hesaplamaa.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\soru not hesaplamaa\soru not hesaplamaa\bin\Debug\soru not hesaplamaa.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\soru not hesaplamaa\soru not hesaplamaa\obj\Debug\soru not hesaplamaa.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\soru not hesaplamaa\soru not hesaplamaa\obj\Debug\soru not hesaplamaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\soru not hesaplamaa\soru not hesaplamaa\obj\Debug\soru_not_hesaplamaa.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\soru not hesaplamaa\soru not hesaplamaa\obj\Debug\soru_not_hesaplamaa.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\soru not hesaplamaa\soru not hesaplamaa\obj\Debug\soru not hesaplamaa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\soru not hesaplamaa\soru not hesaplamaa\obj\Debug\soru not hesaplamaa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\soru not hesaplamaa\soru not hesaplamaa\obj\Debug\soru not hesaplamaa.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\soru not hesaplamaa\soru not hesaplamaa\obj\Debug\soru not hesaplamaa.pdb
